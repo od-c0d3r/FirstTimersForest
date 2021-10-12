@@ -3,7 +3,7 @@
  
 **Hacktoberfest** encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition **T-shirt**.
 
-**This projects** targets poeple who never made a pull request before, it aims to gets you ready to put your hands in bigger open source projects with confidence.
+**This projects** targets poeple who never made a pull request before, it aims to gets you ready to put your hands in larger open source projects with confidence.
 
 #### Togther we gonna teach you :
 1) How to find a project with your intersts
